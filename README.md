@@ -2,4 +2,4 @@
 Demo carga y manejo de 1 Trillón de Filas en Databricks SQL
 
 
-![Test Results](./images/TestResults.png)
+![Databricks](./images/databricks1trillon.png)
