@@ -1,4 +1,4 @@
-# <h3 align="left">Databricks SQL Serverless 1 TRILLÓN DE FILAS</h3>
+# <h1 align="left">Databricks SQL Serverless 1 TRILLÓN DE FILAS</h1>
 
 
 
@@ -29,3 +29,7 @@ Databricks agrega clústeres en función del tiempo que llevaría procesar todas
 De lo contrario, Databricks agrega 3 clústeres más 1 clúster por cada 15 minutos adicionales de carga de consultas esperada.
 
 ⏱️ Si la carga es baja durante 15 minutos, Databricks reduce el almacén de SQL. Mantiene suficientes grupos para manejar la carga máxima durante los últimos 15 minutos. Por ejemplo, si la carga máxima fue de 25 consultas simultáneas, Databricks mantiene 3 clústeres.
+
+<h3 align="left">Creación del Catálogo en Databricks</h3>
+
+En esta demo voy a trabajar con Unity Catalog que es una característica de la plataforma de Azure Databricks que le permite administrar y descubrir activos de datos, como tablas y bases de datos, en toda su organización, para más información te dejo este enlace.
