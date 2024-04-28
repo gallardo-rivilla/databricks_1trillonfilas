@@ -33,3 +33,4 @@ De lo contrario, Databricks agrega 3 clústeres más 1 clúster por cada 15 minu
 <h3 align="left">Creación del Catálogo en Databricks</h3>
 
 En esta demo voy a trabajar con Unity Catalog que es una característica de la plataforma de Azure Databricks que le permite administrar y descubrir activos de datos, como tablas y bases de datos, en toda su organización, para más información te dejo este enlace.
+![Databricks](./images/unitycatalog.png)
